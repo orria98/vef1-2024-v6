@@ -1,0 +1,26 @@
+@import './styles/reset';
+@import './styles/base';
+@import './styles/config';
+
+/* Almennt */
+@import './styles/fonts';
+@import './styles/content';
+@import './styles/animation';
+@import './styles/transition';
+@import './styles/layout';
+
+/* Það sem fylgir er tillaga að uppbyggingu á selectorum fyrir verkefnið */
+
+@import './styles/header';
+@import './styles/nav';
+@import './styles/main';
+@import './styles/intro';
+@import './styles/cards';
+@import './styles/card';
+@import './styles/footer';
+
+/** Spilasíða, töflustílar **/
+
+@import './styles/table';
+@import './styles/event';
+@import './styles/form';

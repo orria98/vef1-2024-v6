@@ -1,0 +1,10 @@
+/* Til að transition sé ekki frá hvítum */
+html {
+  background-color: var(--color-background-primary);
+}
+
+header,
+.wrapper {
+  animation: var(--transition-time-long) var(--transition-timing-function)
+    fade-in;
+}
